@@ -30,6 +30,7 @@
 #import <mobileffmpeg/MobileFFmpeg.h>
 #import <mobileffmpeg/ArchDetect.h>
 #import <mobileffmpeg/MediaInformation.h>
+#import <mobileffmpeg/MobileFFprobe.h>
 
 static NSString *const PLATFORM_NAME = @"ios";
 
